@@ -1,5 +1,0 @@
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpImgHandler\CustomImgHandler\CustomImgHandler\bin\CustomImgHandler.dll.config
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpImgHandler\CustomImgHandler\CustomImgHandler\bin\CustomImgHandler.dll
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpImgHandler\CustomImgHandler\CustomImgHandler\bin\CustomImgHandler.pdb
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpImgHandler\CustomImgHandler\CustomImgHandler\obj\Debug\CustomImgHandler.dll
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpImgHandler\CustomImgHandler\CustomImgHandler\obj\Debug\CustomImgHandler.pdb
