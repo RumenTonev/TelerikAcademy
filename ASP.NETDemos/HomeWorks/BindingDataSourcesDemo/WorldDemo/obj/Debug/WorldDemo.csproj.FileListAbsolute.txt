@@ -1,0 +1,10 @@
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\bin\WorldDemo.dll.config
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\bin\WorldDemo.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\bin\WorldDemo.pdb
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\bin\EntityFramework.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\bin\EntityFramework.SqlServer.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\bin\EntityFramework.xml
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\bin\EntityFramework.SqlServer.xml
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\obj\Debug\WorldDemo.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\obj\Debug\WorldDemo.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\BindingDataSourcesDemo\WorldDemo\obj\Debug\WorldDemo.pdb
