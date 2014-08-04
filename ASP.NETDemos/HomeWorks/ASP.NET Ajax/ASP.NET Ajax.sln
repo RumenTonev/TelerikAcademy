@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Ajax", "ASP.NET Ajax\ASP.NET Ajax.csproj", "{9345666A-6EAA-4456-B0EA-EC4FD959A589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.AJAXDemo", "01.AJAXDemo\01.AJAXDemo.csproj", "{B7B9CE39-574B-4134-9414-D75A893192C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleChat", "SampleChat\SampleChat.csproj", "{3CA80549-699A-46B6-B659-5B6AAAB8C633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoAlbum", "PhotoAlbum\PhotoAlbum.csproj", "{B00FE773-6A01-493B-A5F4-712910B50D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9345666A-6EAA-4456-B0EA-EC4FD959A589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9345666A-6EAA-4456-B0EA-EC4FD959A589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9345666A-6EAA-4456-B0EA-EC4FD959A589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9345666A-6EAA-4456-B0EA-EC4FD959A589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B9CE39-574B-4134-9414-D75A893192C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B9CE39-574B-4134-9414-D75A893192C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B9CE39-574B-4134-9414-D75A893192C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B9CE39-574B-4134-9414-D75A893192C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA80549-699A-46B6-B659-5B6AAAB8C633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA80549-699A-46B6-B659-5B6AAAB8C633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA80549-699A-46B6-B659-5B6AAAB8C633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA80549-699A-46B6-B659-5B6AAAB8C633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00FE773-6A01-493B-A5F4-712910B50D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00FE773-6A01-493B-A5F4-712910B50D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00FE773-6A01-493B-A5F4-712910B50D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00FE773-6A01-493B-A5F4-712910B50D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

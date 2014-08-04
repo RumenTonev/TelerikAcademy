@@ -1,0 +1,12 @@
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\01.AJAXDemo.dll.config
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\01.AJAXDemo.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\01.AJAXDemo.pdb
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\EntityFramework.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\EntityFramework.SqlServer.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\EntityFramework.xml
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\EntityFramework.SqlServer.xml
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\obj\Debug\01.AJAXDemo.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\obj\Debug\01.AJAXDemo.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\obj\Debug\01.AJAXDemo.pdb
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\ASP.NET Ajax.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\ASP.NET Ajax\01.AJAXDemo\bin\ASP.NET Ajax.pdb
