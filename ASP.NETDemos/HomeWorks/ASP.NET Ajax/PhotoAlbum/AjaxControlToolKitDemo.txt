@@ -1,2 +1,0 @@
-﻿Using the AJAX Control Toolkit create a Web photo album showing a list of images (stored in the file system). 
-Clicking an image should show it with bigger size in a modal popup window. The album should look like the Windows Photo Viewer.

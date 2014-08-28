@@ -1,0 +1,5 @@
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\MVCBugTracking\MVCBugTracking.Models\bin\Debug\MVCBugTracking.Models.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\MVCBugTracking\MVCBugTracking.Models\bin\Debug\MVCBugTracking.Models.pdb
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\MVCBugTracking\MVCBugTracking.Models\obj\Debug\MVCBugTracking.Models.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\MVCBugTracking\MVCBugTracking.Models\obj\Debug\MVCBugTracking.Models.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\MVCBugTracking\MVCBugTracking.Models\obj\Debug\MVCBugTracking.Models.pdb

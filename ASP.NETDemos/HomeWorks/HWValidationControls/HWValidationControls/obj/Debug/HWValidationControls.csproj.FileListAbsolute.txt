@@ -1,7 +1,0 @@
-D:\TelerikAcademy\ASP.NETDemos\HomeWorks\HWValidationControls\HWValidationControls\bin\HWValidationControls.dll.config
-D:\TelerikAcademy\ASP.NETDemos\HomeWorks\HWValidationControls\HWValidationControls\bin\HWValidationControls.dll
-D:\TelerikAcademy\ASP.NETDemos\HomeWorks\HWValidationControls\HWValidationControls\bin\HWValidationControls.pdb
-D:\TelerikAcademy\ASP.NETDemos\HomeWorks\HWValidationControls\HWValidationControls\obj\Debug\HWValidationControls.csprojResolveAssemblyReference.cache
-D:\TelerikAcademy\ASP.NETDemos\HomeWorks\HWValidationControls\HWValidationControls\obj\Debug\HWValidationControls.dll
-D:\TelerikAcademy\ASP.NETDemos\HomeWorks\HWValidationControls\HWValidationControls\obj\Debug\HWValidationControls.pdb
-D:\TelerikAcademy\ASP.NETDemos\HomeWorks\HWValidationControls\HWValidationControls\bin\AspNet.ScriptManager.jQuery.dll

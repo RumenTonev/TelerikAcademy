@@ -1,6 +1,0 @@
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpGenerateImgHandler\ImgFromDatabaseHandler\bin\ImgFromDatabaseHandler.dll.config
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpGenerateImgHandler\ImgFromDatabaseHandler\bin\ImgFromDatabaseHandler.dll
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpGenerateImgHandler\ImgFromDatabaseHandler\bin\ImgFromDatabaseHandler.pdb
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpGenerateImgHandler\ImgFromDatabaseHandler\obj\Debug\ImgFromDatabaseHandler.csprojResolveAssemblyReference.cache
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpGenerateImgHandler\ImgFromDatabaseHandler\obj\Debug\ImgFromDatabaseHandler.dll
-D:\TelerikAcademy\ASP.NETDemos\CustomHttpGenerateImgHandler\ImgFromDatabaseHandler\obj\Debug\ImgFromDatabaseHandler.pdb
