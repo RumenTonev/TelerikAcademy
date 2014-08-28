@@ -1,0 +1,125 @@
+﻿/*Styling chatbox part*/
+div#container div#chatbox {
+    height: 510px;
+    width: 330px;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+    div#container div#chatbox input#field-for-message {
+        margin-top: 450px;
+        height: 37px;
+        width: 230px;
+        border-radius: 5px;
+        border: 1px solid green;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 20px;
+    }
+
+    div#container div#chatbox ul#container-for-messages {
+        position: absolute;
+        margin: 0;
+        padding: 5px;
+        border: 1px solid black;
+        height: 410px;
+        width: 317px;
+        overflow: auto;
+        list-style-type: none;
+    }
+
+    div#container div#chatbox ul#container-for-messages > li{
+            color: gray;
+            font-size: 18px;
+            padding-bottom: 5px;
+            word-break: break-all;
+        }
+
+        div#container div#chatbox ul#container-for-messages > li > span {
+            color: gray;
+            font-size: 18px;
+        }
+
+        div#container div#chatbox ul#container-for-messages > li > div {
+            color: black;
+            font-size: 15px;
+            font-style: italic;
+            margin-left: 210px;
+        }
+
+    div#container div#chatbox button#send {
+        height: 40px;
+        width: 60px;
+        border-radius: 10px;
+        border: 1px solid green;
+        background: #f3c5bd;
+        background: -moz-linear-gradient(top, #f3c5bd 0%, #ff6600 75%, #c72200 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f3c5bd), color-stop(75%,#ff6600), color-stop(100%,#c72200));
+        background: -webkit-linear-gradient(top, #f3c5bd 0%,#ff6600 75%,#c72200 100%);
+        background: -o-linear-gradient(top, #f3c5bd 0%,#ff6600 75%,#c72200 100%);
+        background: -ms-linear-gradient(top, #f3c5bd 0%,#ff6600 75%,#c72200 100%);
+        background: linear-gradient(to bottom, #f3c5bd 0%,#ff6600 75%,#c72200 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=0 );
+    }
+
+        div#container div#chatbox button#send:hover {
+            background: #f3c5bd;
+            background: -moz-linear-gradient(top, #f3c5bd 0%, #c72200 29%, #ff6600 76%, #ff6600 76%);
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f3c5bd), color-stop(29%,#c72200), color-stop(76%,#ff6600), color-stop(76%,#ff6600));
+            background: -webkit-linear-gradient(top, #f3c5bd 0%,#c72200 29%,#ff6600 76%,#ff6600 76%);
+            background: -o-linear-gradient(top, #f3c5bd 0%,#c72200 29%,#ff6600 76%,#ff6600 76%);
+            background: -ms-linear-gradient(top, #f3c5bd 0%,#c72200 29%,#ff6600 76%,#ff6600 76%);
+            background: linear-gradient(to bottom, #f3c5bd 0%,#c72200 29%,#ff6600 76%,#ff6600 76%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#ff6600',GradientType=0 );
+        }
+
+        /*Styling logout part*/
+div#container-for-nickname-and-logout {
+    position: absolute;
+    margin-left: 20px;
+}
+
+    div#container-for-nickname-and-logout{
+        padding-right: 20px;
+        color: gray;
+        display: block;
+        width: 200px;
+        word-wrap: break-word;
+    }
+
+        div#container-for-nickname-and-logout span#nickname {
+            font-size: 20px;
+            color: green;
+        }
+
+    div#container-for-nickname-and-logout button#logout-button {
+        display: block;
+        margin: 0 auto;
+        border-radius: 5px;
+        width: 100px;
+        color: green;
+    }
+
+    /*Styling login part*/
+div#login-form {
+    margin-top: 250px;
+    margin-left: 500px;
+}
+
+    div#login-form input#input-nickname {
+        height: 35px;
+        width: 250px;
+        font-size: 20px;
+        border-radius: 5px;
+        padding-left: 5px;
+    }
+
+    div#login-form button#ready-with-nickname {
+        height: 41px;
+        width: 100px;
+        font-size: 20px;
+        border-radius: 5px;
+    }

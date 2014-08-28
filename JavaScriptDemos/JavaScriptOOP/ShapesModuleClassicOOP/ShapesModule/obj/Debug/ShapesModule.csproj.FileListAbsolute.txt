@@ -1,0 +1,6 @@
+c:\users\rumen\documents\visual studio 2013\Projects\ShapesModule\ShapesModule\bin\ShapesModule.dll.config
+c:\users\rumen\documents\visual studio 2013\Projects\ShapesModule\ShapesModule\bin\ShapesModule.dll
+c:\users\rumen\documents\visual studio 2013\Projects\ShapesModule\ShapesModule\bin\ShapesModule.pdb
+c:\users\rumen\documents\visual studio 2013\Projects\ShapesModule\ShapesModule\obj\Debug\ShapesModule.csprojResolveAssemblyReference.cache
+c:\users\rumen\documents\visual studio 2013\Projects\ShapesModule\ShapesModule\obj\Debug\ShapesModule.dll
+c:\users\rumen\documents\visual studio 2013\Projects\ShapesModule\ShapesModule\obj\Debug\ShapesModule.pdb
