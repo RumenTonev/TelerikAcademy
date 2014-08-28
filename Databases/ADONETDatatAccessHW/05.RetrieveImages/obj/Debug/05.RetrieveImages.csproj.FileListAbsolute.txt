@@ -1,0 +1,6 @@
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\05.RetrieveImages\bin\Debug\05.RetrieveImages.exe.config
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\05.RetrieveImages\obj\Debug\05.RetrieveImages.csprojResolveAssemblyReference.cache
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\05.RetrieveImages\bin\Debug\05.RetrieveImages.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\05.RetrieveImages\bin\Debug\05.RetrieveImages.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\05.RetrieveImages\obj\Debug\05.RetrieveImages.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\05.RetrieveImages\obj\Debug\05.RetrieveImages.pdb

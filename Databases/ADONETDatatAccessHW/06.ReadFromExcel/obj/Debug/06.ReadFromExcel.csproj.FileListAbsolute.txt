@@ -1,0 +1,6 @@
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\06.ReadFromExcel\bin\Debug\06.ReadFromExcel.exe.config
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\06.ReadFromExcel\bin\Debug\06.ReadFromExcel.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\06.ReadFromExcel\bin\Debug\06.ReadFromExcel.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\06.ReadFromExcel\obj\Debug\06.ReadFromExcel.csprojResolveAssemblyReference.cache
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\06.ReadFromExcel\obj\Debug\06.ReadFromExcel.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\ADONETHW\06.ReadFromExcel\obj\Debug\06.ReadFromExcel.pdb

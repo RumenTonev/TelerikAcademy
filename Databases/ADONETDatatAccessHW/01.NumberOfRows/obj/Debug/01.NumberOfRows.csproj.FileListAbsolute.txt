@@ -1,0 +1,6 @@
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\01.NumberOfRows\bin\Debug\01.NumberOfRows.exe.config
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\01.NumberOfRows\bin\Debug\01.NumberOfRows.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\01.NumberOfRows\bin\Debug\01.NumberOfRows.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\01.NumberOfRows\obj\Debug\01.NumberOfRows.csprojResolveAssemblyReference.cache
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\01.NumberOfRows\obj\Debug\01.NumberOfRows.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\01.NumberOfRows\obj\Debug\01.NumberOfRows.pdb

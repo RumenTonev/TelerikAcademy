@@ -1,0 +1,10 @@
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\obj\Debug\NorthwindHW.Client.csprojResolveAssemblyReference.cache
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\bin\Debug\NorthwindHW.Client.exe.config
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\bin\Debug\NorthwindHW.Client.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\bin\Debug\NorthwindHW.Client.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\bin\Debug\EntityFramework.dll
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\bin\Debug\NorthwindHW.Data.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\bin\Debug\NorthwindHW.Data.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\bin\Debug\EntityFramework.xml
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\obj\Debug\NorthwindHW.Client.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Client\obj\Debug\NorthwindHW.Client.pdb

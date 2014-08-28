@@ -1,0 +1,10 @@
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\bin\Debug\10.CallStoreProcedure.exe.config
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\bin\Debug\10.CallStoreProcedure.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\bin\Debug\10.CallStoreProcedure.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\bin\Debug\EntityFramework.dll
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\bin\Debug\NorthwindHW.Data.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\bin\Debug\NorthwindHW.Data.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\bin\Debug\EntityFramework.xml
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\obj\Debug\10.CallStoreProcedure.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\obj\Debug\10.CallStoreProcedure.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\10.CallStoreProcedure\obj\Debug\10.CallStoreProcedure.csprojResolveAssemblyReference.cache

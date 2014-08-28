@@ -1,0 +1,10 @@
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\bin\Debug\TelerikAcademtClientaa.exe.config
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\bin\Debug\TelerikAcademtClientaa.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\bin\Debug\TelerikAcademtClientaa.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\bin\Debug\EntityFramework.dll
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\bin\Debug\TelerikAcademyDatata.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\bin\Debug\TelerikAcademyDatata.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\bin\Debug\EntityFramework.xml
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\obj\Debug\TelerikAcademtClientaa.csprojResolveAssemblyReference.cache
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\obj\Debug\TelerikAcademtClientaa.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademtClientaa\obj\Debug\TelerikAcademtClientaa.pdb

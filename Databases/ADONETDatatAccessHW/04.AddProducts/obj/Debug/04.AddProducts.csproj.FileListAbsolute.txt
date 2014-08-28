@@ -1,0 +1,5 @@
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\04.AddProducts\bin\Debug\04.AddProducts.exe.config
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\04.AddProducts\bin\Debug\04.AddProducts.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\04.AddProducts\bin\Debug\04.AddProducts.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\04.AddProducts\obj\Debug\04.AddProducts.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\04.AddProducts\obj\Debug\04.AddProducts.pdb

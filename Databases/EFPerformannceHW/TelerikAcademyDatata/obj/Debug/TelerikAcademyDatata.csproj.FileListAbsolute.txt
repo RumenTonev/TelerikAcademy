@@ -1,0 +1,7 @@
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademyDatata\bin\Debug\TelerikAcademyDatata.exe.config
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademyDatata\bin\Debug\TelerikAcademyDatata.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademyDatata\bin\Debug\TelerikAcademyDatata.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademyDatata\bin\Debug\EntityFramework.dll
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademyDatata\bin\Debug\EntityFramework.xml
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademyDatata\obj\Debug\TelerikAcademyDatata.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\EFPerformanceHW1\TelerikAcademyDatata\obj\Debug\TelerikAcademyDatata.pdb

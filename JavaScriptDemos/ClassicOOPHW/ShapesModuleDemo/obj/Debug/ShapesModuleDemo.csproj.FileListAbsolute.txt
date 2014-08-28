@@ -1,6 +1,0 @@
-C:\Users\rumen\Documents\Visual Studio 2013\Projects\ClassicOOPHW\ShapesModuleDemo\bin\ShapesModuleDemo.dll.config
-C:\Users\rumen\Documents\Visual Studio 2013\Projects\ClassicOOPHW\ShapesModuleDemo\bin\ShapesModuleDemo.dll
-C:\Users\rumen\Documents\Visual Studio 2013\Projects\ClassicOOPHW\ShapesModuleDemo\bin\ShapesModuleDemo.pdb
-C:\Users\rumen\Documents\Visual Studio 2013\Projects\ClassicOOPHW\ShapesModuleDemo\obj\Debug\ShapesModuleDemo.csprojResolveAssemblyReference.cache
-C:\Users\rumen\Documents\Visual Studio 2013\Projects\ClassicOOPHW\ShapesModuleDemo\obj\Debug\ShapesModuleDemo.dll
-C:\Users\rumen\Documents\Visual Studio 2013\Projects\ClassicOOPHW\ShapesModuleDemo\obj\Debug\ShapesModuleDemo.pdb

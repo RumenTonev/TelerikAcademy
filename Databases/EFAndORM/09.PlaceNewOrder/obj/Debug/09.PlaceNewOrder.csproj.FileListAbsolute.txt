@@ -1,0 +1,9 @@
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\bin\Debug\09.PlaceNewOrder.exe.config
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\bin\Debug\09.PlaceNewOrder.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\bin\Debug\09.PlaceNewOrder.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\bin\Debug\EntityFramework.dll
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\bin\Debug\NorthwindHW.Data.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\bin\Debug\NorthwindHW.Data.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\bin\Debug\EntityFramework.xml
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\obj\Debug\09.PlaceNewOrder.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\09.PlaceNewOrder\obj\Debug\09.PlaceNewOrder.pdb

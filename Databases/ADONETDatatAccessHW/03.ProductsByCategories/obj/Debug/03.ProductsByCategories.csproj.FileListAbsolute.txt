@@ -1,0 +1,5 @@
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\03.ProductsByCategories\bin\Debug\03.ProductsByCategories.exe.config
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\03.ProductsByCategories\bin\Debug\03.ProductsByCategories.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\03.ProductsByCategories\bin\Debug\03.ProductsByCategories.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\03.ProductsByCategories\obj\Debug\03.ProductsByCategories.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\03.ProductsByCategories\obj\Debug\03.ProductsByCategories.pdb

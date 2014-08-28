@@ -1,0 +1,8 @@
+c:\users\zhely_000\documents\visual studio 2012\Projects\CodeFirstHW\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+c:\users\zhely_000\documents\visual studio 2012\Projects\CodeFirstHW\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\CodeFirstHW\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+c:\users\zhely_000\documents\visual studio 2012\Projects\CodeFirstHW\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+c:\users\zhely_000\documents\visual studio 2012\Projects\CodeFirstHW\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\CodeFirstHW\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll.config
+c:\users\zhely_000\documents\visual studio 2012\Projects\CodeFirstHW\StudentSystem.Models\bin\Debug\EntityFramework.dll
+c:\users\zhely_000\documents\visual studio 2012\Projects\CodeFirstHW\StudentSystem.Models\bin\Debug\EntityFramework.xml

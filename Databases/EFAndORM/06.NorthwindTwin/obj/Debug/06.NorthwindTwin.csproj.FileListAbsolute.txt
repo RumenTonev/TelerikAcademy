@@ -1,0 +1,10 @@
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\bin\Debug\06.NorthwindTwin.exe.config
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\obj\Debug\06.NorthwindTwin.csprojResolveAssemblyReference.cache
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\bin\Debug\06.NorthwindTwin.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\bin\Debug\06.NorthwindTwin.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\bin\Debug\EntityFramework.dll
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\bin\Debug\NorthwindHW.Data.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\bin\Debug\NorthwindHW.Data.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\bin\Debug\EntityFramework.xml
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\obj\Debug\06.NorthwindTwin.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\06.NorthwindTwin\obj\Debug\06.NorthwindTwin.pdb

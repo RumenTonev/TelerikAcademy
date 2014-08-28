@@ -1,0 +1,6 @@
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\02.RetrieveData\bin\Debug\02.RetrieveData.exe.config
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\02.RetrieveData\bin\Debug\02.RetrieveData.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\02.RetrieveData\bin\Debug\02.RetrieveData.pdb
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\02.RetrieveData\obj\Debug\02.RetrieveData.csprojResolveAssemblyReference.cache
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\02.RetrieveData\obj\Debug\02.RetrieveData.exe
+c:\users\zhely_000\documents\visual studio 2012\Projects\ADONETHW\02.RetrieveData\obj\Debug\02.RetrieveData.pdb

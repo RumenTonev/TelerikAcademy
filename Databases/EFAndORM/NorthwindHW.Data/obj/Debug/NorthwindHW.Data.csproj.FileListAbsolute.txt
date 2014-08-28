@@ -1,0 +1,8 @@
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Data\bin\Debug\NorthwindHW.Data.exe.config
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Data\bin\Debug\NorthwindHW.Data.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Data\bin\Debug\NorthwindHW.Data.pdb
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Data\bin\Debug\EntityFramework.dll
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Data\bin\Debug\EntityFramework.xml
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Data\obj\Debug\NorthwindHW.Data.csprojResolveAssemblyReference.cache
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Data\obj\Debug\NorthwindHW.Data.exe
+C:\Users\zhely_000\Documents\Visual Studio 2012\Projects\EntityFrameworkHomework\NorthwindHW.Data\obj\Debug\NorthwindHW.Data.pdb
