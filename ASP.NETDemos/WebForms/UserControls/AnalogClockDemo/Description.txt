@@ -1,0 +1,3 @@
+﻿Create a custom control to display an analog clock based on the HTML 5 canvas 
+(you could take some code from http://randomibis.com/coolclock/). Define a property to change the time zone.
+ Allcontrol assets (CSS, images, scripts, etc.)should be loaded dynamically at runtimewhen the control is rendered.

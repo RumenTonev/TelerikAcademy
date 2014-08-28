@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        /*taka sme go centrirali*/
+        #snake-canvas {
+            border: 1px solid darkgreen;
+            margin: 0 auto;
+            width: 500px;
+            display:block;
+        }
+    </style>
+    
+</head>
+<body>
+    
+        <canvas id="snake-canvas" width="502" height="502"></canvas>
+   <button onclick="stop">st</button>
+    <button onclick="stop()">stop</button>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/snake.js"></script>
+    <script src="scripts/renderer.js"></script>
+    <script src="scripts/game.js"></script>
+    <script>
+        function stop() {
+            window.alert("Resume game");
+            // game.stop();
+        };
+        var renderer = renderers.getCanvas("#snake-canvas");
+        var game = games.get(renderer);
+        game.start();
+        //curl.addEventListener("click", clickAction, false);
+        //}
+        //}
+
+
+        //function clickAction(e) {
+        //    var e = e || window.event;
+        //    var target = e.target || e.srcElement;
+        //    if (target.children[0].style.display == 'block') {
+        //        target.children[0].style.display = 'none';
+        //    }
+        //    else {
+        //        target.children[0].style.display = 'block';
+        //    }
+
+        //    e.stopPropagation();
+
+        //}
+       
+       // game.stop(
+        //setInterval(moveSnake, 600);
+    </script> 
+</body>
+</html>

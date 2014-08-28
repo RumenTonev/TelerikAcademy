@@ -1,0 +1,6 @@
+c:\users\rumen\documents\visual studio 2013\Projects\HWWebStorages\HWWebStorages\bin\HWWebStorages.dll.config
+c:\users\rumen\documents\visual studio 2013\Projects\HWWebStorages\HWWebStorages\bin\HWWebStorages.dll
+c:\users\rumen\documents\visual studio 2013\Projects\HWWebStorages\HWWebStorages\bin\HWWebStorages.pdb
+c:\users\rumen\documents\visual studio 2013\Projects\HWWebStorages\HWWebStorages\obj\Debug\HWWebStorages.csprojResolveAssemblyReference.cache
+c:\users\rumen\documents\visual studio 2013\Projects\HWWebStorages\HWWebStorages\obj\Debug\HWWebStorages.dll
+c:\users\rumen\documents\visual studio 2013\Projects\HWWebStorages\HWWebStorages\obj\Debug\HWWebStorages.pdb

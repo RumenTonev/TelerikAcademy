@@ -1,0 +1,6 @@
+C:\Users\rumen\Documents\Visual Studio 2013\Projects\HWRequireJS\ComboBox\bin\ComboBox.dll.config
+C:\Users\rumen\Documents\Visual Studio 2013\Projects\HWRequireJS\ComboBox\bin\ComboBox.dll
+C:\Users\rumen\Documents\Visual Studio 2013\Projects\HWRequireJS\ComboBox\bin\ComboBox.pdb
+C:\Users\rumen\Documents\Visual Studio 2013\Projects\HWRequireJS\ComboBox\obj\Debug\ComboBox.dll
+C:\Users\rumen\Documents\Visual Studio 2013\Projects\HWRequireJS\ComboBox\obj\Debug\ComboBox.pdb
+C:\Users\rumen\Documents\Visual Studio 2013\Projects\HWRequireJS\ComboBox\obj\Debug\ComboBox.csprojResolveAssemblyReference.cache

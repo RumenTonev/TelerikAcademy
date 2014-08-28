@@ -1,0 +1,6 @@
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\AnalogClockDemo\bin\AnalogClockDemo.dll.config
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\AnalogClockDemo\bin\AnalogClockDemo.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\AnalogClockDemo\bin\AnalogClockDemo.pdb
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\AnalogClockDemo\obj\Debug\AnalogClockDemo.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\AnalogClockDemo\obj\Debug\AnalogClockDemo.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\AnalogClockDemo\obj\Debug\AnalogClockDemo.pdb

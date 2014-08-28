@@ -1,0 +1,5 @@
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\LinksMenu\bin\LinksMenu.dll.config
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\LinksMenu\bin\LinksMenu.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\LinksMenu\bin\LinksMenu.pdb
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\LinksMenu\obj\Debug\LinksMenu.dll
+D:\TelerikAcademy\ASP.NETDemos\HomeWorks\UserControls\LinksMenu\obj\Debug\LinksMenu.pdb

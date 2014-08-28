@@ -1,0 +1,13 @@
+﻿.combo-box > div{
+    border: 1px inset black;
+    width: 120px;
+    text-align: center;
+}
+
+.visible:hover{
+    background-color: lightgray;
+}
+
+.selected {
+    background-color: lightsteelblue;
+}

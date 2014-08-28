@@ -1,0 +1,16 @@
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\obj\Debug\MVCAjaxDemo.Data.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\MVCAjaxDemo.Data.dll.config
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\MVCAjaxDemo.Data.dll
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\MVCAjaxDemo.Data.pdb
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\EntityFramework.dll
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\MVCAjaxDemo.Models.dll
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\MVCAjaxDemo.Models.pdb
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\EntityFramework.xml
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\obj\Debug\MVCAjaxDemo.Data.dll
+D:\TelerikAcademy\ASP.NETDemos\MyDemoAjaxMVC\MVCAjaxDemo.Data\obj\Debug\MVCAjaxDemo.Data.pdb
