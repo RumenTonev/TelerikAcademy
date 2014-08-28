@@ -1,0 +1,34 @@
+﻿@model TwitterLikeApp.ViewModels.TweetViewModel
+
+@{
+    ViewBag.Title = "CreateView";
+}
+
+<h2>CreateView</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset class="form-horizontal">
+        <legend>Bug</legend>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Content, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Content)
+                @Html.ValidationMessageFor(model => model.Content, null, new { @class = "help-inline" })
+               
+              
+            </div>
+            </div>
+            <div class="form-actions no-color">
+                <input type="submit" value="Create" class="btn" />
+            </div>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

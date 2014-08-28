@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NorthWindDemo.master.cs" Inherits="NorthWindDemo.NorthWindDemo" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <script src="Models/jquery-2.1.1.min.js"></script>
+    <link href="Styles.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       
+        <header runat="server" title="NorthWindDemo"></header>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterLikeApp", "TwitterLikeApp\TwitterLikeApp.csproj", "{37DEBD48-C974-45CC-A174-ACB36DA76964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterLikeApp.Models", "TwitterLikeApp.Models\TwitterLikeApp.Models.csproj", "{2A46C527-4FDD-4317-90E1-5DECC8848E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterLikeApp.Data", "TwitterLikeApp.Data\TwitterLikeApp.Data.csproj", "{C07124CF-D836-4F42-9702-92747AEFEC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DEBD48-C974-45CC-A174-ACB36DA76964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DEBD48-C974-45CC-A174-ACB36DA76964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DEBD48-C974-45CC-A174-ACB36DA76964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DEBD48-C974-45CC-A174-ACB36DA76964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A46C527-4FDD-4317-90E1-5DECC8848E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A46C527-4FDD-4317-90E1-5DECC8848E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A46C527-4FDD-4317-90E1-5DECC8848E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A46C527-4FDD-4317-90E1-5DECC8848E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07124CF-D836-4F42-9702-92747AEFEC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07124CF-D836-4F42-9702-92747AEFEC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07124CF-D836-4F42-9702-92747AEFEC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07124CF-D836-4F42-9702-92747AEFEC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

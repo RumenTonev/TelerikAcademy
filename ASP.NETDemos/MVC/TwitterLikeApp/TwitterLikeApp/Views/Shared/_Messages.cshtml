@@ -1,0 +1,45 @@
+﻿@model IEnumerable<TwitterLikeApp.Models.Message>
+
+@foreach (var bug in Model)
+{
+    <div>@bug.Author.UserName,@bug.CreatedOn</div>
+    <p class="innerContent">
+        @{
+    string current = bug.Content;
+    int start = 0;
+    int end = current.IndexOf("#", start);
+    if (end == -1)
+    {
+        @current
+    }
+    while (end != -1)
+    {
+        string usual = current.Substring(start, end - start);
+        @usual
+        int currentEnd = current.IndexOf(' ', end) - end;
+        if (current.IndexOf(' ', end) - end < 0)
+        {
+            currentEnd = current.Length - end;
+        }
+        string not = current.Substring(end, currentEnd);
+        // string curlink = "/Tags?tagName=" + not.Substring(1);
+        @Html.ActionLink(not, "Index", "Tags", new { tagName = not.Substring(1) }, null)
+        // <span><a class="mya" href="@curlink">@not</a></span>
+        start = current.IndexOf(' ', end);
+        if (start > 0)
+        {
+            end = current.IndexOf("#", start);
+            if (end == -1)
+            {
+                string endusual = current.Substring(start + 1, current.Length - start - 1);
+                @endusual
+            }
+        }
+        else
+        {
+            end = -1;
+        }
+    }
+        }
+    </p>
+}

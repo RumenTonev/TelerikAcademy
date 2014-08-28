@@ -1,0 +1,9 @@
+﻿@model IEnumerable<TwitterLikeApp.Models.Message>
+
+@{
+    ViewBag.Title = "Your Tweets";
+}
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@Html.Partial("~/Views/Shared/_Messages.cshtml", Model);

@@ -1,0 +1,5 @@
+﻿Create a Web Form that shows in a table the names, country and city of all employees from the Northwind database.
+ Implement paging (10 employees on each page) and sorting by each column. Using AJAX, JavaScript and jQuery on mouse 
+ over display a popup DIV with additional info about the employee: photo, phone, email, address, notes. On mouse out hide the additional info.
+ 
+ 
