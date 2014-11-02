@@ -1,0 +1,35 @@
+Create the following web services:
+GET api/students  - returns all students
+Students have id, name and grade
+GET api/students/{studentId}/marks - returns the marks of a student
+Marks have subject and score
+No need to use a database, xml file or any other kinds of data storage. You can use a regular array.
+Using the web services develop a client application with two "pages"
+On the first page show all students
+The second page shows the marks of a student
+Load the second page when a student from the first is clicked
+Separate the application in the following modules:
+HttpRequester - performs HTTP GET and HTTP POST requests
+DataPersister - uses HttpRequester to fetch data from the storage (the web services)
+Controls - renders objects to HTML elements
+Application - handles event handlings, page load, etc…
+(cont.) Using the web services develop a client application with 2 "pages"
+Use promises for the HTTP requests
+You can use Q.js, RSVP.js or any other library
+Use RequireJS to define and use your modules
+Use mustache.js for templating the data
+Use jQuery, prototype.js or native XmlHttpRequest to make the AJAX calls
+
+
+
+
+
+Implement a ComboBox control (like a dropdown list)
+The ComboBox holds a set of items (an array)
+Initially only a single item, the selected item, is visible (the ComboBox is collapsed)
+When the selected item is clicked, all other items are shown (the ComboBox is expanded)
+If an item is clicked, it becomes the selected item and the ComboBox collapses
+Each of the items in a ComboBox can contain any valid HTML code
+.) Implement a ComboBox control (like a dropdown list)
+Use RequireJS and mustache.js
+jQuery is not obligatory (use it if you will)

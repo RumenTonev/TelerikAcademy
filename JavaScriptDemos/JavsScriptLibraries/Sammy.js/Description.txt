@@ -1,0 +1,17 @@
+Implement the UI of the "Battle game"
+The services and their description are located at: https://www.dropbox.com/s/nt7pb9lnl1bpszn/Battle-Game.zip 
+Use the following JavaScript libraries:
+mustache.js for templating
+Underscore.js for extension methods
+RequireJS to create modules
+Sammy.js to create multiple pages
+.) Implement the UI of the "Battle game"
+Use Sammy.js to create the following pages:
+"Register"/"Login" page 
+When user is not authenticated
+"Join game" page
+View all active games at the moment
+"My games" page
+View all games that are created or joined by the logged user
+"Battle in game" page
+View the field of a "in-progress" game
